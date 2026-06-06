@@ -1,183 +1,103 @@
-<!-- Header Banner 3D -->
 <div align="center">
-  <img src="./assets/header_banner.png" alt="Guntur Afandi - Full Stack Web Developer" width="100%" />
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=60&lines=Hey%2C+I'm+Guntur+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Cool+Stuff+%E2%9A%A1)](https://git.io/typing-svg)
+
+  <sub>🇮🇩 Jawa Timur, Indonesia &nbsp;•&nbsp; 🌐 <a href="https://gunturafandy.my.id">gunturafandy.my.id</a></sub>
+
 </div>
 
-<!-- Animated Intro -->
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%3C%2F%3E+Building+Web+Apps+from+Frontend+to+Backend;%F0%9F%9A%80+Passionate+about+Clean+Code+%26+Modern+UI;%F0%9F%8E%AE+Discord+Bot+Developer+%7C+Kotlin+Enthusiast)](https://git.io/typing-svg)
-  
-</div>
+&nbsp;
 
-<!-- Divider Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" />
-</p>
-
-<br>
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 🧑‍💻 About Me
-
-```yaml
-name: Guntur Afandi
-alias: callmezext / Zettx
-location: Jawa Timur, Indonesia 🇮🇩
-role: Full Stack Web Developer
-website: gunturafandy.my.id
-
-currently_working_on:
-  - Web Applications with React & Next.js
-  - Discord Bot Development
-  - Japanese Language Learning App (Kotlin)
-
-interests:
-  - Full Stack Development
-  - 3D Web Experiences (Three.js)
-  - Bot Development
-  - Mobile App Development (Kotlin)
-
-fun_fact: "I love building things that live on the internet ⚡"
+```js
+const guntur = {
+    role: "Full Stack Web Developer",
+    code: ["JavaScript", "TypeScript", "Kotlin", "HTML", "CSS"],
+    tools: ["React", "Next.js", "Node.js", "Express", "Three.js"],
+    databases: ["MongoDB", "PostgreSQL"],
+    currently: "Building web apps & Discord bots 🤖",
+};
 ```
 
-<br clear="right">
+&nbsp;
 
----
+<!-- 3D Animated Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</div>
+
+&nbsp;
 
 <!-- Tech Stack -->
-<h2 align="center">⚡ Tech Stack & Tools</h2>
+<details open>
+<summary><b>⚡ Tech Stack</b></summary>
+<br>
 
 <div align="center">
 
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-#### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📱 Mobile & Others
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Frontend | Backend | Mobile & Tools |
+|:--------:|:-------:|:--------------:|
+| ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=three.js) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
+</details>
 
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- Stats -->
+<details open>
+<summary><b>📊 Stats</b></summary>
+<br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=callmezext&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=callmezext&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4AA&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=callmezext&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9&ring_color=6C63FF&hide_title=true&hide_rank=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmezext&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=C9D1D9&langs_count=6&hide_title=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmezext&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=callmezext&theme=tokyonight&hide_border=true&background=00000000&stroke=6C63FF33&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4AA&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
 </div>
 
+</details>
+
+<!-- Projects -->
+<details open>
+<summary><b>🚀 Projects</b></summary>
 <br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=callmezext&bg_color=0D1117&color=6C63FF&line=00D4AA&point=FF6B9D&area=true&area_color=6C63FF&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/callmezext/portfolio">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
-  </a>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D111766&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
+  </a>&nbsp;
   <a href="https://github.com/callmezext/absensi-karyawan">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=absensi-karyawan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=absensi-karyawan&theme=tokyonight&hide_border=true&bg_color=0D111766&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
   </a>
 </div>
-
 <br>
-
 <div align="center">
   <a href="https://github.com/callmezext/App-Learn-Nihonggo">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=App-Learn-Nihonggo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
-  </a>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=App-Learn-Nihonggo&theme=tokyonight&hide_border=true&bg_color=0D111766&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
+  </a>&nbsp;
   <a href="https://github.com/callmezext/runeclipy-bot-discord">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=runeclipy-bot-discord&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=callmezext&repo=runeclipy-bot-discord&theme=tokyonight&hide_border=true&bg_color=0D111766&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9" />
   </a>
 </div>
 
----
+</details>
 
-<!-- What I Do -->
-<h2 align="center">💡 What I Do</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/monitor--v1.png" width="50" alt="Frontend"/>
-        <br><strong>Frontend</strong>
-        <br><sub>Building responsive & interactive UIs with React, Next.js & Three.js</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/server.png" width="50" alt="Backend"/>
-        <br><strong>Backend</strong>
-        <br><sub>Creating RESTful APIs & server-side logic with Node.js & Express</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/smartphone-tablet.png" width="50" alt="Mobile"/>
-        <br><strong>Mobile Dev</strong>
-        <br><sub>Developing Android apps with Kotlin for learning platforms</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/bot.png" width="50" alt="Bots"/>
-        <br><strong>Bot Dev</strong>
-        <br><sub>Building Discord bots & automation tools</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
+&nbsp;
 
 <!-- Connect -->
-<h2 align="center">🌐 Connect with Me</h2>
-
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gunturafandy.my.id-6C63FF?style=for-the-badge)](https://gunturafandy.my.id)
-  [![GitHub](https://img.shields.io/badge/GitHub-callmezext-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmezext)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-gunturafandyx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunturafandyx)
-  [![Instagram](https://img.shields.io/badge/Instagram-gunturafandyx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gunturafandyx)
-  [![Email](https://img.shields.io/badge/Email-gunturafandy7-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunturafandy7@gmail.com)
-  
-</div>
 
----
+  [![Portfolio](https://img.shields.io/badge/gunturafandy.my.id-6C63FF?style=flat-square&logo=google-chrome&logoColor=white)](https://gunturafandy.my.id)&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/gunturafandyx-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunturafandyx)&nbsp;
+  [![Instagram](https://img.shields.io/badge/gunturafandyx-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gunturafandyx)&nbsp;
+  [![Email](https://img.shields.io/badge/gunturafandy7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gunturafandy7@gmail.com)
 
-<!-- Profile Views & Visitors -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=callmezext&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-  
 </div>
 
 <!-- Snake Animation -->
@@ -189,11 +109,8 @@ fun_fact: "I love building things that live on the internet ⚡"
   </picture>
 </div>
 
-<!-- Footer Banner 3D -->
 <div align="center">
-  <img src="./assets/footer_banner.png" alt="Footer" width="100%" />
-</div>
 
-<div align="center">
-  <sub>⚡ Built with passion by <strong>Guntur Afandi</strong> — Turning coffee into code since 2024 ☕</sub>
+  ![](https://komarev.com/ghpvc/?username=callmezext&color=6C63FF&style=flat-square&label=views)
+
 </div>
