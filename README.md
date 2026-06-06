@@ -1,8 +1,6 @@
-<!-- Header Banner -->
+<!-- Header Banner 3D -->
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Guntur%20Afandi&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Indonesia%20🇮🇩&descSize=20&descAlignY=55&animation=fadeIn&fontColor=ffffff)
-
+  <img src="./assets/header_banner.png" alt="Guntur Afandi - Full Stack Web Developer" width="100%" />
 </div>
 
 <!-- Animated Intro -->
@@ -14,7 +12,7 @@
 
 <!-- Divider Line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" />
 </p>
 
 <br>
@@ -191,11 +189,9 @@ fun_fact: "I love building things that live on the internet ⚡"
   </picture>
 </div>
 
-<!-- Footer -->
+<!-- Footer Banner 3D -->
 <div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
-  
+  <img src="./assets/footer_banner.png" alt="Footer" width="100%" />
 </div>
 
 <div align="center">
