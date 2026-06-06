@@ -103,9 +103,9 @@ const guntur = {
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/github-snake.svg" />
+    <img alt="github-snake" src="./profile-3d-contrib/github-snake-dark.svg" />
   </picture>
 </div>
 
