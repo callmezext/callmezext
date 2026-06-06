@@ -12,14 +12,14 @@
   
 </div>
 
-<!-- Quick Bio -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<!-- Divider Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+</p>
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🧑‍💻 About Me
 
@@ -33,7 +33,7 @@ website: gunturafandy.my.id
 currently_working_on:
   - Web Applications with React & Next.js
   - Discord Bot Development
-  - Japanese Language Learning App
+  - Japanese Language Learning App (Kotlin)
 
 interests:
   - Full Stack Development
@@ -85,7 +85,7 @@ fun_fact: "I love building things that live on the internet ⚡"
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=callmezext&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=callmezext&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4AA&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=callmezext&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4AA&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -98,7 +98,7 @@ fun_fact: "I love building things that live on the internet ⚡"
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=callmezext&bg_color=0D1117&color=6C63FF&line=00D4AA&point=FF6B9D&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=callmezext&bg_color=0D1117&color=6C63FF&line=00D4AA&point=FF6B9D&area=true&area_color=6C63FF&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 ---
@@ -135,22 +135,22 @@ fun_fact: "I love building things that live on the internet ⚡"
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-frontend-web-development-flaticons-flat-flat-icons.png" width="50" alt="Frontend"/>
+        <img src="https://img.icons8.com/color/64/monitor--v1.png" width="50" alt="Frontend"/>
         <br><strong>Frontend</strong>
         <br><sub>Building responsive & interactive UIs with React, Next.js & Three.js</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-backend-web-development-flaticons-flat-flat-icons.png" width="50" alt="Backend"/>
+        <img src="https://img.icons8.com/color/64/server.png" width="50" alt="Backend"/>
         <br><strong>Backend</strong>
         <br><sub>Creating RESTful APIs & server-side logic with Node.js & Express</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-mobile-app-web-development-flaticons-flat-flat-icons.png" width="50" alt="Mobile"/>
+        <img src="https://img.icons8.com/color/64/smartphone-tablet.png" width="50" alt="Mobile"/>
         <br><strong>Mobile Dev</strong>
         <br><sub>Developing Android apps with Kotlin for learning platforms</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-bot-web-development-flaticons-flat-flat-icons.png" width="50" alt="Bots"/>
+        <img src="https://img.icons8.com/color/64/bot.png" width="50" alt="Bots"/>
         <br><strong>Bot Dev</strong>
         <br><sub>Building Discord bots & automation tools</sub>
       </td>
@@ -165,11 +165,11 @@ fun_fact: "I love building things that live on the internet ⚡"
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gunturafandy.my.id-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gunturafandy.my.id)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gunturafandy.my.id-6C63FF?style=for-the-badge)](https://gunturafandy.my.id)
   [![GitHub](https://img.shields.io/badge/GitHub-callmezext-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/callmezext)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-gunturafandyx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunturafandyx)
   [![Instagram](https://img.shields.io/badge/Instagram-gunturafandyx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gunturafandyx)
-  [![Email](https://img.shields.io/badge/Email-gunturafandy7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunturafandy7@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-gunturafandy7-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunturafandy7@gmail.com)
   
 </div>
 
