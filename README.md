@@ -93,19 +93,13 @@ passions: [Clean Architecture, Glassmorphism UI, Cozy Design]
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=callmezext&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=f97316&icon_color=ec4899&text_color=C9D1D9&ring_color=f97316&rank_icon=github" />
-      </td>
-      <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmezext&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=f97316&text_color=C9D1D9&langs_count=6" />
-      </td>
-    </tr>
-  </table>
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=callmezext&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=f97316&icon_color=ec4899&text_color=C9D1D9&ring_color=f97316" />
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=callmezext&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=f97316&text_color=C9D1D9&langs_count=6" />
+</div>
 
-  <br>
+<br>
 
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=callmezext&theme=tokyonight&hide_border=true&background=00000000&stroke=f9731633&ring=f97316&fire=ec4899&currStreakLabel=f59e0b&sideLabels=f97316&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=777777" />
 </div>
 
