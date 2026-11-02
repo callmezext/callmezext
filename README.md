@@ -64,9 +64,9 @@ ACTIVE_RESEARCH:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="./profile-3d-contrib/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/main/profile-3d-contrib/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/main/profile-3d-contrib/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/callmezext/callmezext/main/profile-3d-contrib/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
