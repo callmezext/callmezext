@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f97316,100:ea580c&height=175&section=header&text=GUNTUR%20AFANDI&fontSize=44&fontColor=ffffff&fontAlignY=46&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%E2%80%94%20UI%2FUX%20SYSTEMS%20ARCHITECT&descSize=13&descAlignY=70&descColor=ffedd5&stroke=ffffff&strokeWidth=0" width="100%" alt="Header Banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 ```yaml
 ENGINEER_MANIFEST:
@@ -36,4 +36,42 @@ CORE_CAPABILITIES:
   database_engine : [MongoDB, PostgreSQL, MySQL, MariaDB, Supabase]
   graphics_3d_web : [Three.js, WebGL, Custom HLSL Shaders, Canvas]
   cloud_devops    : [AWS EC2 ARM64, UpCloud VPS, Docker, Cloudflare]
-](https://github.com/callmezext/callmezext/tree/main)
+```
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+PRODUCTION_SYSTEMS:
+  flagship   : Chloera Digital Store (https://chloera.store)
+  focus      : Instant checkout, digital escrow, automated inventory
+  runtime    : Next.js, Node.js, TypeScript, Tailwind CSS
+  infra      : Cloud VPS, Linux Containers, Cloudflare CDN
+
+ACTIVE_RESEARCH:
+  exploring  : Micro-frontend architecture & WebGL Shaders
+  stack      : Rust, Go, Flutter Mobile, High-Concurrency APIs
+  contact    : gunturafandy7@gmail.com
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `02 // ACTIVITY LOG & CONTRIBUTION GRAPH`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/callmezext/callmezext/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="./profile-3d-contrib/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=callmezext&color=f97316&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
